@@ -6,11 +6,11 @@ summaryLength = "15"
 theme = "meghna-hugo"
 title = "Meghna"
 [Languages.en]
-contentDir = "content/english"
+contentDir = "content"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
 home = "Home"
-languageCode = "en-us"
-languageName = "En"
+languageCode = "ja"
+languageName = "Ja"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
