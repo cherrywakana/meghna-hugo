@@ -13,12 +13,12 @@ languageCode = "ja"
 languageName = "Ja"
 weight = 1
 [Languages.fr]
-contentDir = "content/french"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) tous droits réservés"
-home = "Accueil"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
+contentDir = ""
+copyright = ""
+home = ""
+languageCode = ""
+languageName = ""
+weight = ""
 [[menu.main]]
 URL = "blog"
 name = "blog"
